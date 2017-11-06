@@ -7,6 +7,8 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "gear"
 ---
+如何快速地使用jekyll配置Github个人博客。
+
 ### 前言
 
 发现能在Github上建立个人博客，于是注册了github帐号；准备写博客发现github需要配置jekyll来生成静态网页，并不像dokuwiki这类的知识库软件有现成的编辑，发布。在反反复复地测试后，发现github和jekyll配置似乎并不像很多网页说的那么简单，而且费时；离最初的只是用一个网站来记录一些自己的博客想法越来越远。最后发现不如采用现成的模版和方法来快速建立，减少在配置方面的花销，节省更多的精力在文章上。于是有了如下文章。  
